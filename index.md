@@ -28,7 +28,7 @@ You use *extroverted sensing* when you sense the world here and now. Extroverted
 try to interpret or categorize what you see, just gets you the information. And since the function is extroverted, it does not control the focus and just gices you everything.
 
 You use *introverted sensing* when we use memories of what we saw or lived through. Introverted sensing will compare an situation with situation that you lived before, find a closest match
-and give you answers, that were valid last time. If you are inb a new situation, your introverted sensing may try to fabricate answers for you based on your believes
+and give you answers, that were valid last time. If you are in a new situation, your introverted sensing may try to fabricate answers for you based on your believes
 
 ## Feeling
 
@@ -37,12 +37,28 @@ Feeling functions are responsible for your beliefs and inner motivations.
 You use *extroverted feeling* when you try to align yourself with the group you are in. With extroverted feeling you try to define group goals and achieve them as a group.
 You try hard to guess other peopple's problems and solve them as your own. Last but not least you care for group harmony.
 
-You use *introverted feeling* when you try to uphold your beliefs or your moral integrity. Introverted feeling may try tr project your feelings into others. 
+You use *introverted feeling* when you try to uphold your beliefs or your moral integrity. Introverted feeling may try tr project your feelings into others.
+
+## Intuition
+
+The intuition cognitive function is related to seing patterns and connections.
+
+You use *extroverted intuition* when you try to match old patterns with new possibilities. Extroverted
+intuition will make you exploring new possibilities, new spaces. You break status quo and bring new views. With extroverted intuition you bring new ideas, altough you may not care enough to push those ideas forward.
+
+You use *introverted intuition* if you create your unique view of things. Introverted intuition creates symbols, creates new interpretations of information and events. If you use introverted in tuition you may picture a whole scenery in your mind based on a few fragments. 
 
 # What cognitive function is useful in software development?
 
 ## Classical career advice
 
+### Seniority level
+The whole idea of seniority level is based on the idea of using introverted sensing. The more experience
+you have in some field the more can introverted sensing kick in and navigate you directly to the
+correct place. Provided of course that the field did not change.
+
 ## Reflection of agile manifesto
+
+### Individuals and interactions over processes and tools
 
 # Possible reconciliation
