@@ -57,8 +57,18 @@ The whole idea of seniority level is based on the idea of using introverted sens
 you have in some field the more can introverted sensing kick in and navigate you directly to the
 correct place. Provided of course that the field did not change.
 
+### Problemsolving
+Problemsolving is a domain of introverted thinking. The capability of creating theories about a problem will allow you to create a working hypothesis, use this hypothesis to create a plan and then execute the plan to to resolve the problem. Provided you had correct information when you fromulated the theory.
+
 ## Reflection of agile manifesto
 
 ### Individuals and interactions over processes and tools
+The focus on individuals and interactions is a nod to extroverted feeling with its capability to manage and align group goals and care for good of the group.
+
+### Customer collaboration over contract negotiation
+Again the required focus on customers brings extroverted feeling to my mind. This time I would emphasize owning other peoples problems.
+
+### Responding to change over following a plan
+I would argue that for responding to change you could use extroverted intuition with its inflow of ideas, connections and patterns.
 
 # Possible reconciliation
