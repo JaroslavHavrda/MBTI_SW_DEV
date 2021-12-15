@@ -50,7 +50,7 @@ You use *introverted intuition* if you create your unique view of things. Introv
 
 # What cognitive function is useful in software development?
 
-## Classical career advice
+## Technical excelency
 
 ### Seniority level
 The whole idea of seniority level is based on the idea of using introverted sensing. The more experience
@@ -60,10 +60,16 @@ correct place. Provided of course that the field did not change.
 ### Problemsolving
 Problemsolving is a domain of introverted thinking. The capability of creating theories about a problem will allow you to create a working hypothesis, use this hypothesis to create a plan and then execute the plan to to resolve the problem. Provided you had correct information when you fromulated the theory.
 
+### Gathering real world data
+Extroverted sensing is good in gathering real world data about a problem. This will be helpfull since it ensures that the problem we solve is the correct one.
+
 ## Reflection of agile manifesto
 
 ### Individuals and interactions over processes and tools
 The focus on individuals and interactions is a nod to extroverted feeling with its capability to manage and align group goals and care for good of the group.
+
+### Working software over comprehensive documentation
+I do not see any cognitive function prefered here, this is more of goal statement. All cognitive functions above can work towards this goal.
 
 ### Customer collaboration over contract negotiation
 Again the required focus on customers brings extroverted feeling to my mind. This time I would emphasize owning other peoples problems.
@@ -72,3 +78,6 @@ Again the required focus on customers brings extroverted feeling to my mind. Thi
 I would argue that for responding to change you could use extroverted intuition with its inflow of ideas, connections and patterns.
 
 # Possible reconciliation
+
+## Is agile software development wrong?
+No it is not. Agile software development is not only winning chaoss report, it is behind a big turnaround in Microsoft. Spotify is viewed as a role model company by many others. However please note that there are risks connected with it. If you do not have people with skills to support agile values, or those people do not have the power to uphold those values, you will end up with cargo cult agile and your development will be hurt.
