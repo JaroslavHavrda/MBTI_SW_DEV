@@ -81,3 +81,13 @@ I would argue that for responding to change you could use extroverted intuition 
 
 ## Is agile software development wrong?
 No it is not. Agile software development is not only winning chaoss report, it is behind a big turnaround in Microsoft. Spotify is viewed as a role model company by many others. However please note that there are risks connected with it. If you do not have people with skills to support agile values, or those people do not have the power to uphold those values, you will end up with cargo cult agile and your development will be hurt.
+
+## Have T-shaped people?
+Well if you can... Being T-shapoed in terms of cognitive functions can help. It can help to you in personal life too. But being T-shaped in terms of cognitive functions can be a hard task. Training a new cognitive function will is in order of years and the result is not guaranteed (at best). That why I would not consider it as a guideline.
+
+## Hire for diversity?
+This is a good option in bigger teams. You still need to consider the size of your team and think about technical skills you need. And you need to keep in minf that the more boxes you have to tick the bigger teem you need to accomodate all the people you need to hire. Strictly ticking your boxes in this case may bring you to the situation where you need to hire a woman COBOL developer with inbtroverted sensing and there may be no such developer in the market. On the contraty it may be a good idea to reserve one place in the team for hire by presonality. vIf you want to go this path, you can consider
+[Belbin team roles](https://www.belbin.com/about/belbin-team-roles).
+
+## Create team structure and processes with psychology in mind!
+The collaboration between people using different cognitiva functions may be very stressfull. Imagine for example a person using extroverted intuition colaborating with a person using introverted sensing. While the first is constantly comming with new ideas, the other is rooting to tried solutions and has problems with the constant change the extroverted intuition is proposing. If you have both of them in one team, you will need to provide platform for them so that new ideas are comming in sustainable pace for the introverted sensing person to accomodate, but there is still enough influx of new ideas so that the extroverted intuition person is not frustrated with lack of change.
