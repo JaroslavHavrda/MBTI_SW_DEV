@@ -1,4 +1,7 @@
 # Introduction
+The agile software development is still unsettled topic in 2022. While ideas behind the agile development have proven itself in many occasions, we have seen it fail. There are many co called agile transformations that do not result in desired improvement. While symptoms of failed agile transformations are generally well known and ways out are pioneered, there remains one important question to be answered: "Why do software developers so often end up with Zombie Scrum?"
+
+My theory that I want to explore here is: Being a good software engineer requires different brain functions than being good at agile software development.
 
 # Description
 I will use the notion of [Jungian Cognitive functions](https://en.wikipedia.org/wiki/Jungian_cognitive_functions).
@@ -81,6 +84,14 @@ Again the required focus on customers brings extroverted feeling to my mind. Thi
 ### Responding to change over following a plan
 I would argue that for responding to change you could use extroverted intuition with its inflow of ideas, connections and patterns.
 
+# So how can using cognitive functions that are good for software development hurt your agility?
+
+As you probably noted, the overlap between cognitive functions required for agility and for being a good SW developer is rather small. So what are risks that we have to overcome?
+
+ With introverted sensing we have to overcome a big momentum of developers past experiences. While we want to change his or her way of working, his brain may automatically fall back to old ways of working. We need to care for the fact that the simple act of doing things differently may inflict stress on him or her.
+
+ With introverted thinking we are tempted to do a big upfront plan. Developer with introverted thinking may also tend to apply mechanically some framework. Pre made plan is still plan after all.
+
 # Possible reconciliation
 
 ## Is agile software development wrong?
@@ -95,5 +106,3 @@ This is a good option in bigger teams. You still need to consider the size of yo
 
 ## Create team structure and processes with psychology in mind!
 The collaboration between people using different cognitive functions may be very stressful. Imagine for example a person using extroverted intuition collaborating with a person using introverted sensing. While the first is constantly coming with new ideas, the other is rooting to tried solutions and has problems with the constant change the extroverted intuition is proposing. If you have both of them in one team, you will need to provide platform for them so that new ideas are coming in sustainable pace for the introverted sensing person to accommodate, but there is still enough influx of new ideas so that the extroverted intuition person is not frustrated with lack of change.
-
-# Conclusion
