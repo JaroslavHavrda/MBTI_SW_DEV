@@ -3,7 +3,7 @@ The agile software development is still unsettled topic in 2022. While ideas beh
 
 My theory that I want to explore here is: Being a good software engineer requires different brain functions than being good at agile software development.
 
-# Description
+# Jungian cognitive functions
 I will use the notion of [Jungian Cognitive functions](https://en.wikipedia.org/wiki/Jungian_cognitive_functions).
 
 Jung uses four cognitive functions:
@@ -79,7 +79,7 @@ The focus on individuals and interactions is a nod to extroverted feeling with i
 I do not see any cognitive function preferred here, this is more of goal statement. All cognitive functions above can work towards this goal.
 
 ### Customer collaboration over contract negotiation
-Again the required focus on customers brings extroverted feeling to my mind. This time I would emphasize owning other peoples problems.
+Again the required focus on customers brings extroverted feeling to my mind. This time I would emphasize owning other people's problems.
 
 ### Responding to change over following a plan
 I would argue that for responding to change you could use extroverted intuition with its inflow of ideas, connections and patterns.
@@ -88,9 +88,9 @@ I would argue that for responding to change you could use extroverted intuition 
 
 As you probably noted, the overlap between cognitive functions required for agility and for being a good SW developer is rather small. So what are risks that we have to overcome?
 
- With introverted sensing we have to overcome a big momentum of developers past experiences. While we want to change his or her way of working, his brain may automatically fall back to old ways of working. We need to care for the fact that the simple act of doing things differently may inflict stress on him or her.
+With introverted sensing we have to overcome a big momentum of developers past experiences. While we want to change his or her way of working, his brain may automatically fall back to old ways of working. We need to care for the fact that the simple act of doing things differently may inflict stress on him or her.
 
- With introverted thinking we are tempted to do a big upfront plan. Developer with introverted thinking may also tend to apply mechanically some framework. Pre made plan is still plan after all.
+With introverted thinking we are tempted to do a big upfront plan. Developer with introverted thinking may also tend to apply mechanically some framework. Pre made plan is still plan after all.
 
 # Possible reconciliation
 
