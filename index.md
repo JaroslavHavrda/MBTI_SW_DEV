@@ -17,6 +17,8 @@ Each cognitive function can be introverted and extroverted.
 Descriptions here are based on the book 
 [Nejsou stejné by Šárka Miková](https://www.cbdb.cz/kniha-229778-nejsou-stejne).
 
+Each person has different mix of cognitive functions. You may have some cognitive functions well developed and some other neglected so much you can not really use them.
+
 ## Thinking
 
 You are using your thinking function whenever you process information or manipulate axioms.
