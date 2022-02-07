@@ -13,11 +13,10 @@ Jung uses four cognitive functions:
 - Intuition
 
 Each cognitive function can be introverted and extroverted.                                                                                             
+Each person has different mix of cognitive functions. You may have some cognitive functions well developed and some other neglected so much you can not really use them.
 
 Descriptions here are based on the book 
 [Nejsou stejné by Šárka Miková](https://www.cbdb.cz/kniha-229778-nejsou-stejne).
-
-Each person has different mix of cognitive functions. You may have some cognitive functions well developed and some other neglected so much you can not really use them.cd 
 
 ## Thinking
 
